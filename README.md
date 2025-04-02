@@ -1,6 +1,7 @@
 # STM32F407VGT6 with DC Motor Control using L293D Driver
 
-![image](https://github.com/user-attachments/assets/0e04f8b4-42cb-430d-9f08-b8db22ae64b1)
+![image](https://github.com/user-attachments/assets/17dd3e70-ef61-4521-9bf0-92ec96db6133)
+
 
 
 This project demonstrates the interfacing of an STM32F407VGT6 microcontroller with a DC motor through an L293D motor driver. The setup uses PA0 and PA1 pins of the STM32F407VGT6 to control the direction of the motor, and PB1 is configured as Timer1 to control the motor's speed via PWM (Pulse Width Modulation) to the EnableA pin of the L293D.
